@@ -3,6 +3,8 @@ Contact Tracing - Australia
 
 **CovidSafe** - It's a centralized BT proximity-tracing solution, that is based on a fork of [OpenTrace](https://github.com/ct-report/OPENTRACE).
 
+It requires the mobile-phone number registration as a measure to prevent abuse & ease contacts. Only Australian numbers starting with 04 are allowed.
+
 Play Store | https://play.google.com/store/apps/details?id=au.gov.health.covidsafe
 -----------|----------------------------------------------------------------------
 Sources | https://github.com/AU-COVIDSafe
